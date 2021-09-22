@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Rotten Collection!</name>
+    <directory>the rotten collection</directory>
+    <id>2523646005</id>
+    <description>Fear and be disgusted because the rotten collection is here!
+
+[h1] Features [/h1]
+This mod adds a total of [url=https://docs.google.com/document/d/1w_EMCa-xV-7rWfVUX877KtWvpjjPtMwsGUKXccXweMs/edit?usp=sharing]8 new rotten themed items and trinkets[/url]!
+[list]
+    [*]One new trinket
+    [*]Seven new passive items
+    [*]Of which three are familiars
+    [*]Heaps of fun! (and disgust)
+[/list]
+
+These new items will appear in a multitude of item pools! But all of them will appear in at least the following pools:
+Treasure, Greed Treasure, Greed Shop and Rotten beggar.
+
+[h1] Interactions [/h1]
+- This mod has support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836319872]External Item Descriptions[/url] with just enough details to get you by!
+And not only is english supported but russian has also been added by the almighty [url=https://steamcommunity.com/id/romz24/]Romzes[/url]
+
+- If you want a little more information instead then don't fret! [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2376005362]Encyclopedia[/url] is also supported with a greater amount of information on added content within!
+
+[h1] Content [/h1]
+
+Higher detail descriptions and information can be found [url=https://docs.google.com/document/d/1w_EMCa-xV-7rWfVUX877KtWvpjjPtMwsGUKXccXweMs/edit?usp=sharing]here[/url]
+[url=https://moddingofisaac.fandom.com/ru/wiki/The_Rotten_Collection!] Russian wiki[/url] provided by: [url=https://steamcommunity.com/profiles/76561198386639861]IsBt[/url]
+
+[hr]
+[h2][b]Chimerism[/b] - [i]Devour thy enemy[/i][/h2]
+[h3]Effect[/h3]
+Grants a random stat up for every enemy killed.
+- Killing normal enemies will grant a stat x2 for the current room.
+- Killing mini-bosses will grant a stat for the current floor.
+- Killing bosses will grant a stat x2 permanently.
+
+[h3]Stacking[/h3]
+All stats granted will be multiplied by the amount of the item carried (I.E: x3 if carried 3 times).
+
+[h3]Co-op (and Jacob &amp; Esau)[/h3]
+All stats granted will be shared betweem players carrying the item.
+
+[hr]
+[h2][b]Cube of rot[/b] - [i]Blegh...[/i][/h2]
+[h3]Effect[/h3]
+Grants an orbital that will occationally teleport and change both distance from the player and speed. The follower is also able to block shots and damage enemies on contact. Enemies damaged will also be poisoned.
+
+[h3]Synergies[/h3]
+While held the follower(s) granted by cube of meat will be upgraded. Level 1 and 2 will ocationally teleport, level 2 will shoot poison shots, level 3 and 4 will teleport towards enemies, and all levels will poison enemies on contact.
+
+[hr]
+[h2][b]Foul Guts[/b] - [i]Tastes disgusting[/i][/h2]
+[h3]Effect[/h3]
+Grants one heart container and two bone hearts. It will also replace all red hearts and fill all empty containers wil rotten hearts.
+
+[h3]Special Effect[/h3]
+If the player is unable to hold red/rotten hearts (I.E: playing the lost). then anywere between 4 and 8 of the follwing will be spawned:
+
+Soul hearts, half soul hearts, black hearts, blended hearts, bone hearts, and rotten hearts.
+
+[hr]
+[h2][b]Knout[/b] - [i]Leaves a mark[/i][/h2]
+[h3]Effect[/h3]
+While shooting or charging the player has a chance to shoot out a whip in the same direction.
+
+[h3]Whipping Enemies[/h3]
+Whipping enemies will damage, slow and permanently stun them. Bosses will not be stunned by the whip, but they will be slowed and damaged.
+
+[h3]Whipping items and consumables[/h3]
+Whipping consumables and pedestal items will drag (teleport) them towards the player.
+
+[hr]
+[h2][b]Mother's spine[/b] - [i]Yes MOTHER?[/i][/h2]
+[h3]Effect[/h3]
+Grants a follower that slowly spins around the player.
+
+When enemies are being &quot;pointed at&quot; (in line with) this follower then they will take minor damage and be poisoned.
+
+[h3]Synergies[/h3]
+When holding BFFS! enemies will take heavy damage instead of minor damage.
+
+[hr]
+[h2][b]Necrosis[/b] - [i]Rotten on the inside[/i][/h2]
+[h3]Effect[/h3]
+Grants two heart containers, two rotten hearts, and one broken heart. The player can now occationally shoot clumps.
+
+[h3]Clumps[/h3]
+Clumps will instantly kill normal enemies and leave a fart on impact.
+
+[h3]Synergies[/h3]
+While holding contagion clumps will &quot;infect&quot; enemies on contact. And while holding moms knife the knife will sometimes leave farts on contact.
+
+[hr]
+[h2][b]Rotten gut[/b] - [i]It sucks![/i][/h2]
+[h3]Effect[/h3]
+Grants a follower that will only appear while in combat. After appearing it will start sucking everything towards it.
+
+Enemies will start taking damage while in contact with it. And shots that touch it will be blocked.
+
+[h3]Synergies[/h3]
+When carrying BFFS! the range and strength of it's sucking will be increased.
+
+[hr]
+[h2][b]Sick maggot[/b] - [i]Your innards are squirming[/i][/h2]
+[h3]Effect[/h3]
+When losing a rotten heart it gets replaced by half a red heart. Effectively making rotten hearts function as full hearts.
+
+When on full health red hearts can still be picked up. When picked up they will grant a rotten heart instead.
+
+[h3]Stacking[/h3]
+The amount of hearts granted when losing a rotten heart is based on trinket stacking. So mothers box or a golden trinket will grant a full heart and so on...
+
+[hr]
+[h1] Credits [/h1]
+Credit to the following people that improved this mod:
+[list]
+[*]Credit to [url=https://steamcommunity.com/id/romz24/]Romzes[/url] for translating and adding the russian IED item names and descriptions!
+[*]Credit to [url=https://steamcommunity.com/profiles/76561198386639861]IsBt[/url] for adding the mod to the russian modding wiki!
+[*]Credit to [url=https://steamcommunity.com/id/somenerd2]this MF[/url] for remaking/remastering a bunch of texture used in this mod!
+[img]https://i.imgur.com/4kZTEM1.gif[/img]
+[/list]
+
+And as a beginner to modding isaac i used a lot of mods as examples and insperation for the rotten collection. Credit to the following mods:
+[list]
+[*]Credit to the &quot;[url=https://steamcommunity.com/sharedfiles/filedetails/?id=840640979]Black hole mod[/url]&quot; (Was added to the game in a booster pack) which was used as an example for the rotten gut sucking logic.
+[*]Credit to the &quot;[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1163138153]Strawpack 2 mod[/url]&quot; which was used as an example for custom tear effects/animations.
+[*]Credit to the &quot;[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2106770230]Crane Game mod[/url]&quot; which was used as an example for the item collecting logic used in the Knout item.
+[*]Credit to the &quot;[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2489635144]Custom Mr Dollys mod[/url]&quot; which was used as an example for replacing sprites.
+[/list]
+
+</description>
+    <version>1.31</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Familiars"/>
+</metadata>

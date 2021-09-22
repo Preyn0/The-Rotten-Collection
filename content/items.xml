@@ -1,0 +1,12 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive  cache=""                            description="Tastes disgusting"         name="Foul Guts"      gfx="foul_guts.png"       quality="1" id="922817331" />
+    <passive  cache=""                            description="Rotten on the inside"      name="Necrosis"       gfx="rotcol_necrosis.png" quality="3" id="922817332" />
+    <passive  cache="damage speed shotspeed luck" description="Devour thy enemy"          name="Chimerism"      gfx="chimerism.png"       quality="3" id="922817333" />
+    <passive  cache=""                            description="Leaves a mark"             name="Knout"          gfx="rotcol_knout.png"    quality="3" id="922817334" />
+
+    <familiar cache=""                           description="Blegh..."                   name="Cube of rot"    gfx="cube_of_rot.png"     quality="2" />
+    <familiar cache=""                           description="Yes MOTHER?"                name="Mother's spine" gfx="mothers_spine.png"   quality="2" />
+    <familiar cache=""                           description="It sucks!"                  name="Rotten gut"     gfx="rotten_gut.png"      quality="3" />
+
+	<trinket  cache=""                           description="Your innards are squirming" name="Sick maggot"    gfx="sick_maggot.png"   />
+</items>

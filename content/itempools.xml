@@ -1,0 +1,60 @@
+<ItemPools>
+	<Pool Name="treasure">
+                <Item Name="Foul Guts" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Necrosis" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+                <Item Name="Chimerism" Weight="0.2" DecreaseBy="0.2" RemoveOn="0.1"/>
+                <Item Name="Knout" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Cube of rot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Rotten gut" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+	<Pool Name="greedTreasure">
+                <Item Name="Foul Guts" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Necrosis" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+                <Item Name="Chimerism" Weight="0.2" DecreaseBy="0.2" RemoveOn="0.1"/>
+                <Item Name="Knout" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Cube of rot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Rotten gut" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+	<Pool Name="greedShop">
+                <Item Name="Foul Guts" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Necrosis" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1"/>
+                <Item Name="Chimerism" Weight="0.2" DecreaseBy="0.2" RemoveOn="0.1"/>
+                <Item Name="Knout" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Cube of rot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Rotten gut" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+        <Pool Name="babyShop">
+                <Item Name="Cube of rot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Rotten gut" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        </Pool>
+
+        <Pool Name="rottenBeggar">
+                <Item Name="Foul Guts" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Necrosis" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Chimerism" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Knout" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Cube of rot" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Rotten gut" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+        <Pool Name="boss">
+                <Item Name="Foul Guts" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+                <Item Name="Chimerism" Weight="0.2" DecreaseBy="0.2" RemoveOn="0.1"/>
+	</Pool>
+    
+        <Pool Name="momsChest">
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+
+        <Pool Name="oldChest">
+                <Item Name="Mother's spine" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

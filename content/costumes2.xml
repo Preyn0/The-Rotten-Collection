@@ -1,0 +1,6 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="rotcol_foul_guts.anm2" type="passive" id="922817331" />
+	<costume anm2path="rotcol_necrosis.anm2"  type="passive" id="922817332" />
+	<costume anm2path="rotcol_chimerism.anm2" type="passive" id="922817333" />
+	<costume anm2path="rotcol_knout.anm2"	  type="passive" id="922817334" />
+</costumes>
