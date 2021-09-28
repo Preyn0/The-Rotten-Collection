@@ -1,5 +1,4 @@
 local mod = RegisterMod("The Rotten Collection", 1)
-local json = require("json")
 
 -- Define content and path
 local path = 'scripts.content.'
@@ -11,41 +10,7 @@ require('scripts.datamanager') -- Import data manager
 -- Import content
 local contentImports = {}
 for _, title in pairs(content) do table.insert(contentImports, require(path .. title)) end
-
-for _, item in ipairs(contentImports) do
-    if EID and item.EID_DESCRIPTIONS then
-        for i=1, #item.EID_DESCRIPTIONS do
-            if item.TYPE == 100 then
-                EID:addCollectible(item.ID, item.EID_DESCRIPTIONS[i].DESC, item.EID_DESCRIPTIONS[i].NAME, item.EID_DESCRIPTIONS[i].LANG)
-            else
-                EID:addTrinket(item.ID, item.EID_DESCRIPTIONS[i].DESC, item.EID_DESCRIPTIONS[i].NAME, item.EID_DESCRIPTIONS[i].LANG)
-            end
-        end
-    end
-    
-    if Encyclopedia and (item.EID_DESCRIPTIONS or item.ENC_DESCRIPTION) then
-        if item.TYPE == 100 then
-            local pools = {}
-            if item.POOLS then
-                for i, pool in ipairs(item.POOLS) do table.insert(pools, (pool+1)) end    
-            end
-            Encyclopedia.AddItem({
-                Class = "Rotten Collection",
-                ModName= "Rotten Collection",
-                ID = item.ID,
-                WikiDesc = item.ENC_DESCRIPTION and item.ENC_DESCRIPTION or Encyclopedia.EIDtoWiki(item.EID_DESCRIPTIONS[1].DESC),
-                Pools = pools
-            })    
-        else
-            Encyclopedia.AddTrinket({
-                Class = "Rotten Collection",
-                ModName= "Rotten Collection",
-                ID = item.ID,
-                WikiDesc = item.ENC_DESCRIPTION and item.ENC_DESCRIPTION or Encyclopedia.EIDtoWiki(item.EID_DESCRIPTIONS[1].DESC)
-            }) 
-        end
-    end
-end
+contentImports = TCC_API:InitContent(contentImports, "Rotten Collection")
 
 --[[ ### DEV CODE ### --
 local function loadItems()
